@@ -1,4 +1,4 @@
-# Weather API
+# WeatherAPI
 
 A RESTful API that retrieves weather information for a specified city using the WeatherAPI.com API.
 
